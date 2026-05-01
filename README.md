@@ -71,3 +71,6 @@ Open main.py and update:
 
 ### 5. Run the Application
 python main.py
+
+## Screenshots
+Sample screenshots are provided in screenshots/ folder
